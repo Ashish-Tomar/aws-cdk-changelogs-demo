@@ -30,6 +30,6 @@
     "destroy": "cdk destroy"
   },
   "dependencies": {
-    "npm": "6.10.0"
+    "npm": "6.13.4"
   }
 }
